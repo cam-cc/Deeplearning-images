@@ -1,5 +1,5 @@
 # DCGAN Cat Generator
-
+![Image](saved-images/generated_img_4239.png)
 This repository contains code for training a Deep Convolutional Generative Adversarial Network (DCGAN) to generate images of cats. The DCGAN model is trained on the CATS dataset from Kaggle, using TensorFlow 2.0.
 
 # Prerequisites
